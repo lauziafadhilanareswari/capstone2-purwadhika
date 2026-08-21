@@ -10,7 +10,7 @@ Proyek ini merupakan analisis mendalam terhadap pasar **Airbnb di Bangkok, Thail
 
 ---
 
-## 🗂️ Struktur Repositori
+## Struktur Repositori
 
 ```
 capstone2-purwadhika/
@@ -23,7 +23,7 @@ capstone2-purwadhika/
 
 ---
 
-## ❓ Business Questions
+## Business Questions
 
 Analisis ini menjawab 6 pertanyaan bisnis utama:
 
@@ -38,7 +38,7 @@ Analisis ini menjawab 6 pertanyaan bisnis utama:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 **Sumber:** Airbnb Listings Bangkok (Inside Airbnb)
 
@@ -68,7 +68,7 @@ Analisis ini menjawab 6 pertanyaan bisnis utama:
 
 ---
 
-## 🧹 Data Cleaning
+## Data Cleaning
 
 Proses pembersihan data mencakup:
 
@@ -92,7 +92,7 @@ Proses pembersihan data mencakup:
 
 ---
 
-## 🔍 Ringkasan Insight Analisis
+## Ringkasan Insight Analisis
 
 ### Q1 — Faktor Penentu Harga
 - **Tipe kamar** adalah faktor paling dominan (uji Kruskal-Wallis, p < 0.05)
@@ -151,16 +151,6 @@ Proses pembersihan data mencakup:
 | Statistik | `scipy.stats` (Kruskal-Wallis, Mann-Whitney U, Chi-Square, Spearman Correlation) |
 | Dashboard | Tableau Public |
 | Notebook | Jupyter Notebook |
-
----
-
-## 📈 Metode Statistik yang Digunakan
-
-- **Statistik Deskriptif**: mean, median, standar deviasi, distribusi frekuensi, crosstab
-- **Kruskal-Wallis Test**: membandingkan distribusi harga/ulasan antar >2 kelompok
-- **Mann-Whitney U Test**: membandingkan 2 kelompok independen
-- **Spearman Correlation**: mengukur korelasi antar variabel numerik (non-parametrik)
-- **Chi-Square & Cramer's V**: mengukur asosiasi antar variabel kategorikal
 
 ---
 
