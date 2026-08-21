@@ -170,12 +170,3 @@ Proses pembersihan data mencakup:
 |---|---|
 | 📓 Jupyter Notebook | *https://github.com/lauziafadhilanareswari/capstone2-purwadhika.git* |
 | 📊 Dashboard Tableau | *https://public.tableau.com/views/Capstone2_LauziaFN/DashboardAirbnbBangkok?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link* |
-| 🎞️ Slide Presentasi | *https://drive.google.com/file/d/1QoVz4g7q3BLGIk-csl-cpsdyKKssaGus/view?usp=sharing* |
-| 🎥 Video Penjelasan | *YouTube: https://youtu.be/vw33FPv63F0 / Google Drive: https://drive.google.com/file/d/1bcR0yUnKBvMI48UzKdCjB6yGchRPME6F/view?usp=drive_link* |
-
-
----
-
-## 👤 Author
-
-**Nama:** *Lauzia Fadhila Nareswari*  
